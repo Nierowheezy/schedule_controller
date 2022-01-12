@@ -22,6 +22,7 @@ You will also see any lint errors in the console.
 
 ### FILES ARE CONTAINED IN THE SRC FOLDER
 
+```
 container folder--- contains two components, EventDetails and EventCalender
 
 css folder--- contains a css file for styling the datetime
@@ -29,6 +30,7 @@ css folder--- contains a css file for styling the datetime
 redux--- contains redux setup and the store
 
 utils-- contains some utility components
+```
 
 ### BRIEF DESCRIPTION
 
